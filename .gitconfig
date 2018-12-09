@@ -1,3 +1,12 @@
 [user]
-	name = seo218
+	name = Casey
 	email = casey.seo1@gmail.com
+[core]
+	autocrlf = input
+	safecrlf = true
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
