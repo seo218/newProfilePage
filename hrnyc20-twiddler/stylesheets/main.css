@@ -174,7 +174,7 @@ table {
 */
 
 a {
-  color: #FF4131;
+  color: aqua;
   text-decoration: none;
 }
 
@@ -188,7 +188,7 @@ p a {
 
 .primary-header a,
 .primary-footer a {
-  color: #fff;
+  color: blue;
 }
 
 .primary-header a:hover,
