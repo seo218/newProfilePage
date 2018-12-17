@@ -193,7 +193,7 @@ p a {
 
 .primary-header a:hover,
 .primary-footer a:hover {
-  color: #FF4131;
+  color: black;
 }
 
 /*
@@ -208,12 +208,12 @@ p a {
 }
 
 .row {
-  background: #fff;
+  background: black;
   padding: 66px 0 44px 0;
 }
 
 .row-alt {
-  background: #cbe2c1;
+  background: black;
   background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
   background: -moz-linear-gradient(to right, #a1d3b0, #f6f1d3);
   background: linear-gradient(to right, #a1d3b0, #f6f1d3);
@@ -227,7 +227,7 @@ p a {
 */
 
 .primary-footer {
-  color: #FF4131;
+  color: black;
   font-size: 14px;
   padding-top: 44px;
   padding-bottom: 44px;
@@ -293,7 +293,7 @@ textarea {
 }
 
 .tweet-group label {
-  color: #FF4131;
+  color: black;
   cursor: pointer;
   font-weight: 400;
 }
@@ -302,7 +302,7 @@ textarea {
 .tweet-group select,
 .tweet-group textarea {
   border: 1px solid #c6c9cc;
-  border-radius: 5px;
+  border-radius: 10px;
   color: #888;
   display: block;
   margin: 5px 0 27px 0;
