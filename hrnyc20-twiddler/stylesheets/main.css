@@ -301,7 +301,7 @@ textarea {
 .tweet-group input,
 .tweet-group select,
 .tweet-group textarea {
-  border: 1px solid #c6c9cc;
+  border: 1px solid white;
   border-radius: 10px;
   color: #888;
   display: block;
